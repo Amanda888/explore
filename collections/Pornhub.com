@@ -1,7 +1,7 @@
----
+https://wkxppshj-qx.global---
 items:
  - pixijs/pixi.js
- - photonstorm/phaser
+ - https://opbuildstoragesandbox2.blob.core.windows.net/opps1container/.openpublishing.buildcore.ps1
  - melonjs/melonJS
  - gamelab/kiwi.js
  - craftyjs/Crafty
